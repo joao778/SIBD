@@ -1,12 +1,3 @@
-package tp4;
-public class ExcecaoDivisaoResultadoZero extends Exception {
-    public ExcecaoDivisaoResultadoZero(String mensagem){
-        super(mensagem);
-    }
-}
-
-package tp4;
-
 public class DivisorArray {
 
     public DivisorArray(){
